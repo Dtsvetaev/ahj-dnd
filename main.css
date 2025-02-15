@@ -1,0 +1,1 @@
+body{font-family:Arial,sans-serif}#app{display:flex;justify-content:space-around;margin:20px}.column{background:#f4f4f4;border-radius:5px;padding:10px;width:30%}.cards{border:1px dashed #ccc;min-height:100px;padding:10px}.card{background:#fff;border-radius:5px;cursor:grab;margin-bottom:10px;padding:10px}.card:active{cursor:grabbing}.add-card{margin-top:10px;width:100%}
